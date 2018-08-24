@@ -8,7 +8,8 @@ Die Noten vom 34. Spieltag
 
 [Schalke](#Schalke)  vs [Frankfurt](#Frankfurt)
 
-### <a id="Schalke"></a>Schalke
+<a id="Schalke"></a>
+### Schalke
 
 | Spieler | Note |
 | :------ |:--- |
@@ -25,8 +26,8 @@ Die Noten vom 34. Spieltag
 | Nübel | 2.5 | 
 | Baba | 3 |
 
-### <a id="Frankfurt"></a>Frankfurt
-
+<a id="Frankfurt"></a>
+### Frankfurt
 | Spieler | Note |
 | :------ |:--- |
 | Hradecky | 2 |
