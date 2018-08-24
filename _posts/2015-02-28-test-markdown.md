@@ -9,42 +9,41 @@ Die Noten vom 34. Spieltag
 [Schalke](#Schalke)  vs [Frankfurt](#Frankfurt)
 
 <a id="Schalke"></a>  
-
 ### Schalke  
 
 
-| Spieler | Note |
-| :------ |:--- |
-| Fährmann | 3 |
-| **Stambouli** | 1.5 |
-| Kehrer | 2.5 |
-| Caligiuri | 2.5 |
-| Goretzka | 3 |
-| McKennie | 2 |
-| Oczipka | 3 |
-| Harit | 3 |
-| Konoplyanka | 3 |
-| Burgstaller| 2 |
-| _Nübel_ | 2.5 | 
-| _Baba_ | 3 |
-
-<a id="Frankfurt"></a>
-
+| Spieler |	Note |	Punkte |	
+| :------ |:--- | :----- |
+| Fahrmann |	3 |	6 |
+|	Stambouli |	1.5 |	12 |
+|	Kehrer | 2.5 |	8 |
+|	Caligiuri |	2.5 |	9 |
+|	Goretzka |	3 |	6 |
+|	McKennie |	2 |	10 |
+|	Oczipka	| 3 |	6 |
+|	Harit |	3 |	6 |
+|	Konoplyanka |	3 |	6 |
+|	Burgstaller |	2 |	13 |
+|	N<c3><bc>bel |	2.5 |	7 |
+|	Baba | 3 |	5 |
+  
+  
+ <a id="Frankfurt"></a>
 ### Frankfurt
 
 
-| Spieler | Note |
-| :------ |:--- |
-| Hradecky | 2 |
-| da Costa | 3 |
-| Russ | 3.5 |
-| Salcedo | 4 |
-| Wolf | 5 |
-| Willems | 5 |
-| Fernandes | 3.5 |
-| Mascarell | 4 |
-| Boateng | 4 |
-| Gacinovic| 5 |
-| Haller | 5 | 
-| _de Guzman_ | 3 |
-| _Rebic_ | 3 |
+| Spieler |	Note |	Punkte |	
+| :------ |:--- | :----- |
+|	Hradecky |	2 |	10 |
+|	da Costa |	3 |	6 |
+|	Russ |	3.5 |	4 |
+|	Salcedo |	4 |	2 |
+|	Wolf |	5 |	-2 |
+|	Willems |	5 |	-2 |
+|	Fernandes |	3.5 |	4 |
+|	Mascarell |	4 |	2 |
+|	Boateng |	4 |	2 |
+|	Gacinovic |	5 |	-2 |
+|	Haller |	5 |	-2 |
+|	de Guzman |	3 |	5 |
+|	Rebic |	0 |	NA |
