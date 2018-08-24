@@ -6,17 +6,7 @@ tags: [test]
 
 Die Noten vom 34. Spieltag
 
-[Schalke](#Schalke)  vs Frankfurt
-
-
-
-
-
-
-
-
-
-
+[Schalke](#Schalke)  vs [Frankfurt](#Frankfurt)
 
 ### <a id="Schalke"></a>Schalke
 
@@ -35,3 +25,20 @@ Die Noten vom 34. Spieltag
 | Nübel | 2.5 | 
 | Baba | 3 |
 
+### <a id="Frankfurt"></a>Frankfurt
+
+| Spieler | Note |
+| :------ |:--- |
+| Hradecky | 2 |
+| da Costa | 3 |
+| Russ | 3.5 |
+| Salcedo | 4 |
+| Wolf | 5 |
+| Willems | 5 |
+| Fernandes | 3.5 |
+| Mascarell | 4 |
+| Boateng | 4 |
+| Gacinovic| 5 |
+| Haller | 5 | 
+| de Guzman | 3 |
+| Rebic | 3 |
