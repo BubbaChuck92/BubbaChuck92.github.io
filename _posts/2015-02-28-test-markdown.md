@@ -25,8 +25,8 @@ Die Noten vom 34. Spieltag
 | Harit | 3 |
 | Konoplyanka | 3 |
 | Burgstaller| 2 |
-| Nübel | 2.5 | 
-| Baba | 3 |
+| _Nübel_ | 2.5 | 
+| _Baba_ | 3 |
 
 <a id="Frankfurt"></a>
 
@@ -46,5 +46,5 @@ Die Noten vom 34. Spieltag
 | Boateng | 4 |
 | Gacinovic| 5 |
 | Haller | 5 | 
-| de Guzman | 3 |
-| Rebic | 3 |
+| _de Guzman_ | 3 |
+| _Rebic_ | 3 |
