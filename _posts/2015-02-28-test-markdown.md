@@ -8,9 +8,9 @@ Die Noten vom 34. Spieltag
 
 [Schalke](#Schalke)  vs [Frankfurt](#Frankfurt)
 
-<a id="Schalke"></a>
+<a id="Schalke"></a>  
 
-### Schalke
+### Schalke  
 
 
 | Spieler | Note |
