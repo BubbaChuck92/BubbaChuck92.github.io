@@ -1,9 +1,6 @@
 ---
 layout: post
 title: 34. Spieltag Noten
-subtitle:
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
